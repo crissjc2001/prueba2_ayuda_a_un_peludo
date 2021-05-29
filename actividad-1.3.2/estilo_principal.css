@@ -1,0 +1,26 @@
+body{
+    background-color: #ffdea0;
+}
+.menu{
+    list-style: none;
+    padding: 0;
+    background: #FFE9D9;
+    margin: 50%;
+}
+.menu li a{
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+    display: block;
+}
+.menu li{
+    display: inline-block;
+    text-align: center;
+}
+.menu li a:hover{
+    background: #FFC775;
+}
+#boton{
+    display: none;
+}
+
